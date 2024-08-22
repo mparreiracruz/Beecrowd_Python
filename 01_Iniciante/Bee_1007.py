@@ -19,6 +19,3 @@ prod_C_D = C * D
 DIFERENCA = prod_A_B - prod_C_D
 
 print('DIFERENCA = {}'.format(DIFERENCA))
-
-
-print('DIFERENCA = {}'.format(DIFERENCA))
